@@ -1,9 +1,9 @@
-<p align="center"><img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="180"/></p>
+<p align="center"><img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="200"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmad-reshad-mohammadi-733959124/"><img src="https://img.shields.io/badge/-Rishad-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=AhmadReshadarm&style=flat-square&color=blue" alt=""></p> -->
-![](https://komarev.com/ghpvc/?username=AhmadReshadarm)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=AhmadReshadarm&style=flat-square&color=blue" alt=""></p>
+
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
