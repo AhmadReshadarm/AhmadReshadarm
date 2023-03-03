@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<div style="width:480px">
-  <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/HpwBGhOLxHxY4qBxHS/video" width="480"></iframe>
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/rickandmorty-season-4-episode-2-s4e2-HpwBGhOLxHxY4qBxHS" width="100"/>
 </div>
 
 <!--
