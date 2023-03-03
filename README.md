@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/clips/rickandmorty-season-4-episode-2-s4e2-HpwBGhOLxHxY4qBxHS" width="100"/>
+  <video width="320" height="240" controls loop>
+  <source src="https://giphy.com/clips/rickandmorty-season-4-episode-2-s4e2-HpwBGhOLxHxY4qBxHS" type="video/mp4">
+</video>
 </div>
 
 <!--
