@@ -14,7 +14,7 @@ My name is Rishad and I am a Full Stack Web Developer <img src="https://media.gi
 
 - 🔭 I’m working as a Software Engineer and contributing in frontend and backend of web applications.
 - 🌱 Exploring the impelemetetion of AI in to my workflow.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I surf on reddit or watch youtube mostly mxr plays 😉.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rishad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-reshad-mohammadi-733959124/) &nbsp; <img src="https://user-images.githubusercontent.com/19770756/222735055-472720af-bbd0-476b-b42f-a8dd736b8f2d.png" width="20px"/> <a href="https://t.me/armreshad" target="__blank">@armreshad</a>
 
 ---
